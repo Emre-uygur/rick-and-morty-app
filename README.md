@@ -3,7 +3,7 @@
 Bu uygulama, Rick and Morty API'sini kullanarak karakterleri listeleme ve detay görüntüleme işlevine sahiptir.
 
 ## Yayın Linki
-[Uygulamayı Görüntüle](https://emre-uygur.github.io)
+[Uygulamayı Görüntüle](https://emre-uygur.github.io/rick-and-morty-app)
 
 ## Özellikler
 - Karakter arama
